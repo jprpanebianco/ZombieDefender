@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Barrier
+  - AirEnemy
+  - GroundEnemy
+  - EnemyBullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Barrier
+  - Bullet
+  - Player
+  - GroundEnemy
+  - AirEnemy
+  - EnemyBullet
+  - PlayerBulletHitbox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 392939995
+    locked: 0
+  - name: Ground
+    uniqueID: 1688803611
+    locked: 0
+  - name: OnGround
+    uniqueID: 1907815587
+    locked: 0
+  - name: InAir
+    uniqueID: 4063676277
+    locked: 0
+  - name: Foreground
+    uniqueID: 3676121609
+    locked: 0
